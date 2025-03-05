@@ -1,5 +1,2 @@
-def print(param):
-    pass
-
-
-print ("hello user")
+print("nigga")
+print("123")
