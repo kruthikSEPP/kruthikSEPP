@@ -1,1 +1,5 @@
-print("hello user")
+def print(param):
+    pass
+
+
+print ("hello user")
